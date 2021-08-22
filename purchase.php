@@ -1,0 +1,4 @@
+<?php 
+//Integrate with Paystack
+
+?>
